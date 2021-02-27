@@ -16,6 +16,7 @@
 * [엄현식](https://github.com/Umhyunsik)
 * [노영주](https://github.com/Y0ungZ)
 * [김용기](https://github.com/KIMYONGGEE) 
+* [최수연](https://github.com/SuyeonChoi)
 <br/>
 <br/>
 
