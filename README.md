@@ -16,14 +16,20 @@
 <br/>
 
 ## Solved List / 해결한 문제
-**[백준]**  
-* 17281 야구공 (permutation, combination, subset)
-* 1759 암호만들기 (permutation, combination, subset)
-* 6603 로또 (permutation, combination, subset)
+**[백준]**
+* [백준 그룹](https://www.acmicpc.net/group/10394) 
 
+```
+1) 17281 야구공 (permutation, combination, subset)
+2) 1759 암호만들기 (permutation, combination, subset)
+3) 6603 로또 (permutation, combination, subset)
+```
 **[SWexpert]**  
-* 2112 보호필름 (permutation, combination, subset)
+* [SWexpert 클럽](https://swexpertacademy.com/main/talk/solvingClub/clubView.do?solveclubId=AXe6MIfaWOcDFAS5) 
 
+```
+1) 2112 보호필름 (permutation, combination, subset)
+```
 <br/>
 <br/>
 
@@ -35,6 +41,8 @@
 3. 2주차 스턷 문제 카테고리 취합
 4. 질의응답
 ```
+![Study1주차](https://user-images.githubusercontent.com/43742747/109383354-60d31b80-7929-11eb-890e-166ab8d05415.png)
+
 
 <br/>
 <br/>
