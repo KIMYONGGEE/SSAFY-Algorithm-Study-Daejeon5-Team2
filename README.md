@@ -10,8 +10,7 @@
 
 ## Built With 대전 5반 SturdyTeam.2
 **[Team Members]**  
-* [김용기](https://lab.ssafy.com/ykkim6872) 
-
+* [김용기](https://github.com/KIMYONGGEE) 
 <br/>
 <br/>
 
