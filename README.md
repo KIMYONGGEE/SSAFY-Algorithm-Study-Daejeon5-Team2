@@ -9,9 +9,13 @@
 
 
 ## Built With 대전 5반 SturdyTeam.2
-**[Team Members]**  
+**[Team Members]**
+* [홍성표](https://github.com/seongpyoHong)
+* [배현우](https://github.com/bae-hyeon-woo)
+* [이종현](https://github.com/kepler5310)
+* [엄현식](https://github.com/Umhyunsik)
+* [노영주](https://github.com/Y0ungZ)
 * [김용기](https://github.com/KIMYONGGEE) 
-* [홍성표](https://github.com/seongpyoHong) 
 <br/>
 <br/>
 
