@@ -17,6 +17,7 @@
 * [노영주](https://github.com/Y0ungZ)
 * [김용기](https://github.com/KIMYONGGEE) 
 * [최수연](https://github.com/SuyeonChoi)
+* [노효진](https://github.com/NOHYOJIN)
 <br/>
 <br/>
 
