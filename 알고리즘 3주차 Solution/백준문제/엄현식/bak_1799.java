@@ -10,19 +10,6 @@ public class bak_1799 {
 	static int max;
 	static int N;
 
-	static class Pair {
-		int x;
-		int y;
-
-		public Pair(int x, int y) {
-			this.x = x;
-			this.y = y;
-		}
-
-	}
-
-
-
 	static void dfs(int row) {
 
 		if (row == (2 * N) - 1) {
@@ -38,9 +25,6 @@ public class bak_1799 {
 			return;
 		}
 		boolean flag=false;
-
-		
-		
 		int arraysize = row + 1;
 		int diagrowlen = (2 * N) - 1;
 		int x, y;
