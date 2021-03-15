@@ -34,6 +34,9 @@
 <2주차>
 1) 14503 로봇청소기
 2) 14888 연산자 끼워넣기
+
+<3주차>
+1) 1799 비숍(BackTracking)
 ```
 **[SWexpert]**  
 * [SWexpert 클럽](https://swexpertacademy.com/main/talk/solvingClub/clubView.do?solveclubId=AXe6MIfaWOcDFAS5) 
@@ -45,6 +48,12 @@
 <2주차>
 1) 등산로 조성
 2) 홈 방버 서비스
+
+<3주차>
+1) 8382 방향 전환
+2) 1486 장훈이의 높은선반
+3) 1227 미로2
+4) 1219 길찾기
 ```
 <br/>
 <br/>
@@ -68,6 +77,18 @@
 4. 질의응답
 ```
 ![Study2주차](https://user-images.githubusercontent.com/43742747/109823992-c3a31a80-7c7b-11eb-9eb3-39e5510f9280.png)
+
+
+## 3주차 회의 (21.03.10)
+
+```
+1. 각자 풀어온 문제 확인
+2. 문제 솔루션 토의
+3. (집중 토론 문제) BOJ_1799_비숍
+4. 질의응답
+5. 스터디 운영안 변경 논의 : (1)스터디 문제 (2) 솔루션 발표 (3) 문제 추천 
+```
+![3주차 스터디](https://user-images.githubusercontent.com/43742747/111114011-016e4000-85a6-11eb-8a89-f86ef0bd8c75.png)
 
 
 <br/>
