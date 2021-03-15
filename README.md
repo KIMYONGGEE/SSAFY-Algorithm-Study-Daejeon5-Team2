@@ -88,7 +88,7 @@
 4. 질의응답
 5. 스터디 운영안 변경 논의 : (1)스터디 문제 (2) 솔루션 발표 (3) 문제 추천 
 ```
-![3주차 스터디](https://user-images.githubusercontent.com/43742747/111114906-434bb600-85a7-11eb-945b-159226917288.png)
+![3주차 스터디](https://user-images.githubusercontent.com/43742747/111115241-ad645b00-85a7-11eb-9dad-3923f58bf758.png)
 
 <br/>
 <br/>
