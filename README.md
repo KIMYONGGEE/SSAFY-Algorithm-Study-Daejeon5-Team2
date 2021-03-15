@@ -1,12 +1,7 @@
 # SSAFY Algorithm Study Daejeon5 Team2 
 **[OverView : 스터디 목표]**
 
-
 매주 꾸준하게 [백준](https://www.acmicpc.net)과 [SWexpert](https://swexpertacademy.com/main/main.do)에서 문제를 뽑아 팀원들과 솔브, 솔루션 토의를 진행하여 알고리즘 해결 역량을 늘리고자 함 
-
-<br/>
-<br/>
-
 
 ## Built With 대전 5반 SturdyTeam.2
 **[Team Members]**
@@ -18,8 +13,6 @@
 * [김용기](https://github.com/KIMYONGGEE) 
 * [최수연](https://github.com/SuyeonChoi)
 * [노효진](https://github.com/NOHYOJIN)
-<br/>
-<br/>
 
 ## Solved List / 해결한 문제
 **[백준]**
