@@ -107,5 +107,24 @@
 ```
 ![3주차 스터디](https://user-images.githubusercontent.com/43742747/111115241-ad645b00-85a7-11eb-9dad-3923f58bf758.png)
 
+
+## 4주차 회의 (21.03.18)
+```
+1. 각자 풀어온 문제 확인
+2. 문제 솔루션 토의
+3. (집중 토론 문제) 프로그래머스 : 합승 택시 요금, 백준 : 2482_색상환/3075_Astromeeting
+4. 질의응답
+```
+![4주차 스터디](https://user-images.githubusercontent.com/43742747/112460717-8a555a80-8da2-11eb-8d27-b2dbcf0b0579.png)
+
+## 5주차 회의 (21.03.25)
+```
+1. 각자 풀어온 문제 확인
+2. 문제 솔루션 토의
+3. (집중 토론 문제) 프로그래머스 : 합승 택시 요금, SWEA : 물놀이를 가자
+4. 질의응답
+```
+![5주차 스터디](https://user-images.githubusercontent.com/43742747/112460742-9214ff00-8da2-11eb-9ebc-fee89524bd97.png)
+
 <br/>
 <br/>
