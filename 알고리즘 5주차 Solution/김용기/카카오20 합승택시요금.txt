@@ -1,0 +1,62 @@
+import java.util.*;
+import java.io.*;
+class Solution {
+    
+    //플루이드 써보자고! 
+    static int[][] data;
+    static int ans;
+    static int S, A, B,N;
+    
+    public int solution(int n, int s, int a, int b, int[][] fares) {
+        ans = Integer.MAX_VALUE;
+        data = new int[n+1][n+1];
+        N= n;
+        S = s;
+        A = a;
+        B =b;
+        
+        //노드 배열 초기화 
+        /*  0 max max
+            max 0 max
+            max max 0
+        */
+        for(int i =1; i<=n ; i++){
+            for(int j=1; j<=n ; j++){
+                if(i==j)
+                    data[i][j]= 0;
+                else
+                    data[i][j] = 100000;
+            }
+        }
+    
+        //경로값 저장 해줌
+        for(int i =0; i<fares.length; i++){
+            data[fares[i][0]][fares[i][1]] = fares[i][2];
+            data[fares[i][1]][fares[i][0]] = fares[i][2];
+        }
+        
+        //플로이드 
+        Floyd();
+        
+        //최소값 찾기
+        Searchmin();
+        
+        return ans;
+    }
+    
+    static void Floyd(){
+        
+        //플로이드를 통해서 모든 정점들 간의 최단거리를 구해준다! 
+        for(int i=1;i<=N;i++)
+          for(int j=1;j<=N;j++)
+             for(int k=1;k<=N;k++)
+                data[j][k]=Math.min(data[j][k],data[j][i]+data[i][k]);
+        
+    }
+    
+    static void Searchmin(){
+        //그 다음 간선을 하나 거쳐갈때 의 합중 최솟값을 최신화 해준다. 
+        for(int i=1;i<=N;i++)
+          ans=Math.min(ans,data[S][i]+data[i][A]+data[i][B]);
+    }
+}
