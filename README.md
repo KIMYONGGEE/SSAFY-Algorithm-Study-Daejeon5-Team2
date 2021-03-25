@@ -30,6 +30,14 @@
 
 <3주차>
 1) 1799 비숍(BackTracking)
+
+<4주차>
+1) 2482 색상환(DP)
+2) 3075 Astromeeting(Floyd)
+
+<5주차>
+1) 1753 최단경로 (다익스트라)
+2) 11403 경로찾기 (Floyd)
 ```
 **[SWexpert]**  
 * [SWexpert 클럽](https://swexpertacademy.com/main/talk/solvingClub/clubView.do?solveclubId=AXe6MIfaWOcDFAS5) 
@@ -47,6 +55,22 @@
 2) 1486 장훈이의 높은선반
 3) 1227 미로2
 4) 1219 길찾기
+
+<4주차>
+1) 수영장(DFS,BFS)
+2) 탈주범 검거(DFS,BFS)
+3) 무선 충전(구현)
+4) 벽돌 깨기 (구현)
+5) Contact (BFS)
+
+<5주차>
+1) SWEA_물놀이를 가자(BFS)
+```
+
+**[Programmers]**  
+```
+<5주차>
+1) 2021 KAKAO BLIND RECRUITMENT : 합승 택시 요금 (플로이드, 다익스트라)
 ```
 <br/>
 <br/>
