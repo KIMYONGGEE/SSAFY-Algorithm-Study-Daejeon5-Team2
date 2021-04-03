@@ -38,6 +38,12 @@
 <5주차>
 1) 1753 최단경로 (다익스트라)
 2) 11403 경로찾기 (Floyd)
+
+<6주차>
+1) 11967 불켜기 (BFS)
+2) 1520 내리막 길(DP + DFS)
+3) 1199 오일러문제(DFS)
+
 ```
 **[SWexpert]**  
 * [SWexpert 클럽](https://swexpertacademy.com/main/talk/solvingClub/clubView.do?solveclubId=AXe6MIfaWOcDFAS5) 
@@ -71,6 +77,9 @@
 ```
 <5주차>
 1) 2021 KAKAO BLIND RECRUITMENT : 합승 택시 요금 (플로이드, 다익스트라)
+
+<6주차>
+1) 2021 KAKAO BLIND RECRUITMENT : 카드짝 맞추기(최단거리, 백트래킹, BFS)
 ```
 <br/>
 <br/>
@@ -125,6 +134,15 @@
 4. 질의응답
 ```
 ![5주차 스터디](https://user-images.githubusercontent.com/43742747/112460742-9214ff00-8da2-11eb-9ebc-fee89524bd97.png)
+
+## 6주차 회의 (21.03.31)
+```
+1. 각자 풀어온 문제 확인
+2. 문제 솔루션 토의
+3. (집중 토론 문제) 프로그래머스 : 카드짝 맞추기 , 백준 : 11967 불켜기 / 1520 내리막 길 / 1199 오일러 문제
+4. 질의응답
+```
+![6주차 스터디](https://user-images.githubusercontent.com/43742747/113471385-e13feb80-9496-11eb-9095-7ce225a5c7b5.png)
 
 <br/>
 <br/>
