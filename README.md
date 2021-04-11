@@ -44,6 +44,10 @@
 2) 1520 내리막 길(DP + DFS)
 3) 1199 오일러문제(DFS)
 
+<7주차>
+1) 6198 정원 꾸미기 (DP, 구현)
+2) 1107 리모컨 (브루투포스)
+3) 1937 욕심쟁이 판다 (dp, DFS)
 ```
 **[SWexpert]**  
 * [SWexpert 클럽](https://swexpertacademy.com/main/talk/solvingClub/clubView.do?solveclubId=AXe6MIfaWOcDFAS5) 
